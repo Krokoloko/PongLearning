@@ -5,7 +5,6 @@ An learning ai that learns how to play pong against the player
 
 - [Neural Networks](link)
 - [Learning algorithm](link)
-- [](link)
 
 ## Software Analasis 
 I chose to work with unity since it is easy to visualise a game there.
@@ -29,7 +28,7 @@ In that aspect python would've been a more optimal decision.
 - Getting a grasp on machine learning and neural networks
 
 ## Planning 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| | monday | tuesday | wednesday | thursday | friday |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | Documentation setup en research | extra research | make pong | extra day to finetune pong | create a neural network class |
 |week 2 | create a script for the machine learning | experimenting with behaviour | extra day to polish on anything | 
